@@ -1,0 +1,144 @@
+    1  > .bash_history 
+    2  sudo su
+    3  ip a
+    4  find . -iname wallpaper.png
+    5  find . -iname planodefundo.png
+    6  find . -iname bg.jpg
+    7  find . -iname fundo4linux10.jpg
+    8  vim /etc/lightdm/lightdm-gtk-greeter.conf 
+    9  cd Imagens/
+   10  ls
+   11  cp bloqueio.png /usr/share/backgrounds/bg.jpg 
+   12  sudo cp bloqueio.png /usr/share/backgrounds/bg.jpg 
+   13  sudo cp ../Downloads/bloqueio.png /usr/share/backgrounds/bg.jpg 
+   14  cls
+   15  clear
+   16  python -m pip install -U autopep8 --user
+   17  /usr/bin/python3 -m pip install -U autopep8 --user
+   18  /usr/bin/python3 -m pip install -U pylint --user
+   19  /usr/bin/python3
+   20  python -m pip install -U "pylint<2.0.0" --user
+   21  cat /etc/*release
+   22  ls
+   23  cd Down
+   24  cd Downloads/
+   25  ls
+   26  sudo dpkg -i code_1.29.1-1542309157_amd64
+   27  sudo dpkg -i code_1.29.1-1542309157_amd64.deb 
+   28  cd 
+   29  mkdir -diurno
+   30  mkdir 520-diurno
+   31  ls
+   32  cd 520-diurno/
+   33  ls
+   34  ss -ntlp
+   35  sudo
+   36  sudo su
+   37  python
+   38  python3
+   39  ls
+   40  python3 hello.py 
+   41  which python3
+   42  ./hello.py
+   43  chmod +x hello.py 
+   44  ls 
+   45  ll
+   46  ls -la
+   47  ./hello.py
+   48  sudo su
+   49  ./hello.py
+   50  bpython
+   51  which python3
+   52  echo \#\!$(which python3) > media.py; +x media.py
+   53  echo \#\!$(which python3) > media.py; chmod +x media.py
+   54  ls
+   55  ./media.py 
+   56  6
+   57  ./media.py 
+   58  docker stop gitlab
+   59  sudo dpkg-reconfigure locales
+   60  ./media.py 
+   61  1
+   62  ./media.py 
+   63  echo \#\!$(which python3) > media.py; chmod +x parImpar.py
+   64  echo \#\!$(which python3) > parImpar.py; chmod +x parImpar.py
+   65  ./parImpar.py 
+   66  git status
+   67  git init
+   68  mkdir aula1
+   69  mv *.py aula1/
+   70  git status
+   71  git add .
+   72  git status
+   73  ls -la
+   74  git commit -m 'aula01'
+   75  git remote add origin https://github.com/darkligth/520-4linux.git
+   76  git push -u origin master
+   77  ls -la
+   78  ls
+   79  cd aula01/
+   80  mv .* ..
+   81  mv .* ../
+   82  ls
+   83  mv .vscode ../
+   84  ll
+   85  ls
+   86  chmod +x lista.py 
+   87  ls
+   88  ./lista.py 
+   89  import this
+   90  bpython
+   91  echo \#\!$(which python3) > loop.py; chmod +x loop.py
+   92  ./loop.py 
+   93  git status
+   94  ls
+   95  git add
+   96  git add *
+   97  git status
+   98  git add .
+   99  git status
+  100  cd ..
+  101  ls
+  102  git status
+  103  cd aula01/
+  104  git status
+  105  git add .
+  106  git remote add origin https://github.com/darkligth/520-4linux.git
+  107  git remote -v
+  108  git commit
+  109  git commit -m
+  110  git commit -m 'finalizacao aula'
+  111  git push -u origin master
+  112  cd /home/developer/520-diurno/aula01 ; env "PYTHONIOENCODING=UTF-8" "PYTHONUNBUFFERED=1" python /home/developer/.vscode/extensions/ms-python.python-2018.10.1/pythonFiles/experimental/ptvsd_launcher.py --client --host localhost --port 34907 /home/developer/520-diurno/aula01/loop.py 
+  113  cd
+  114  ls
+  115  cd 520-diurno/
+  116  cd aula02
+  117  echo \#\!$(which python3) > mediaTry.py; chmod +x mediaTry.py
+  118  ./mediaTry.py 
+  119  echo \#\!$(which python3) > loop2.py; chmod +x loop2.py
+  120  ./loop2.py 
+  121  mv loop2.py convidados.py
+  122  ls
+  123  ./mediaTry.py 
+  124  cd 
+  125  ls
+  126  cd 520-diurno/
+  127  cd aula02/
+  128  ./mediaTry.py 
+  129  echo \#\!$(which python3) > arq.py; chmod +x arq.py
+  130  ./arq.py 
+  131  echo \#\!$(which python3) > arq.py; chmod +x arq.py
+  132  ./arq.py 
+  133  echo \#\!$(which python3) > shebang.py; chmod +x shebang.py
+  134  ./arq.py 
+  135  ./shebang.py 
+  136  echo \#\!$(which python3) > semShebang.py; chmod +x semShebang.py
+  137  ./semShebang.py 
+  138  ./shebang.py 
+  139  cd 
+  140  ls
+  141  cd 520-diurno/
+  142  l
+  143  ls
+  144  history > comandos.txt
