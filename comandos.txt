@@ -55,7 +55,8 @@
    55  ./media.py 
    56  6
    57  ./media.py 
-   58  docker stop gitlab
+   58  docker stop 
+lab
    59  sudo dpkg-reconfigure locales
    60  ./media.py 
    61  1
