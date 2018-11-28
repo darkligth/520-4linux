@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 class Conta ():
     '''Tentando abstrair uma conta corrente '''
     def __init__(self, n_conta, saldo):
@@ -32,11 +30,13 @@ class Conta ():
         except Exception as e:
             print('Erro: {}'.format(e))
 
-        
+    def __str__(self):
+        return 'Conta: {} Saldo: {}'.format(self.conta, self.saldo)
 
+class Poupanca (Conta):
+    def __init__(self, n_conta, saldo=0):
+        super().__init__(n_conta, saldo)
+        self.taxa_juros = 0.005
 
-c1 = Conta(12345, 1000)
-c2 = Conta(6666, 1500)
-
-c1.transferir(500, c2)
-print(c1.saldo, c2.saldo)
+    def reder_juros(self, n_conta, saldo=0):        
+        self.saldo += self.saldo * self.taxa_juros
