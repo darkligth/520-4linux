@@ -6,4 +6,6 @@ for x in range(97, 123):
 print (lista)
 '''
 lista = [chr(x).upper() for x in range(97, 123) if chr(x) != 'a']
-print(lista)
+
+
+

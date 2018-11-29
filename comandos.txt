@@ -142,3 +142,249 @@
   142  l
   143  ls
   144  history > comandos.txt
+  145  ls
+  146  git status
+  147  cd aula02/
+  148  ls
+  149  git staus
+  150  git status
+  151  cd ..
+  152  git add .
+  153  git status
+  154  git commit -m 'commit aula02'
+  155  git push -u origin master
+  156  echo \#\!$(which python3) > funcao.py; chmod +x funcao.py
+  157  mv funcao.py aula02
+  158  cd aula02
+  159  ./funcao.py 
+  160  echo \#\!$(which python3) > lambda.py; chmod +x lambda.py
+  161  ./lambda.py 
+  162  bpython
+  163  cd .loal/bin
+  164  cd .local/bin
+  165  cd .local/bin/
+  166  cd 
+  167  cd ./local/bin
+  168  ls ./local/bin
+  169  ls .local/bin
+  170  cd  .local/bin
+  171  ls
+  172  sudo apt-get update
+  173  sudo apt-get install python3-pip
+  174  pip3 -V
+  175  pip3 freeze
+  176  sudo apt-get install python3-venv
+  177  cd 520-diurno/
+  178  python3 -m venv venv
+  179  ls
+  180  cd venv/bin/
+  181  ls
+  182  . activate
+  183  which python3
+  184  pip3 list
+  185  pip3 freeze
+  186  pip3 freeze > requeriments.txt
+  187  pip3 install flask
+  188  pip3 freeze
+  189  cd 
+  190  cd 520-diurno/
+  191  cd aula02
+  192  mv .gitignore ../
+  193  cd ..
+  194  ls
+  195  ls -la
+  196  git status
+  197  git commit -m 'finalizacao aula 2'
+  198  git add .
+  199  git status
+  200  git commit -m 'finalizacao aula 2'
+  201  git push -u origin master
+  202  diactivate
+  203  deactivate
+  204  cd /opt/
+  205  ls
+  206  cd firox
+  207  cd firefox
+  208  ls
+  209  cd /tmp
+  210  ls
+  211  cd firefox_developer/
+  212  ls
+  213  sudo tar xjf FirefoxSetup.tar.bz2 -C /opt/firefox/
+  214  mv /usr/lib/firefox-esr/firefox-esr /usr/lib/firefox-esr/firefox-esr_orig
+  215  sudo mv /usr/lib/firefox-esr/firefox-esr /usr/lib/firefox-esr/firefox-esr_orig
+  216  ln -s /opt/firefox/firefox/firefox /usr/lib/firefox-esr/firefox-esr
+  217  sudo ln -s /opt/firefox/firefox/firefox /usr/lib/firefox-esr/firefox-esr
+  218  cd /
+  219  cd
+  220  cd 520-diurno/
+  221  cd venv/bin/
+  222  . activate
+  223  . deactivate
+  224  ls
+  225  cd ..
+  226  ls
+  227  cd ..
+  228  ls
+  229  cd flask/
+  230  python3 testeApi.py 
+  231  ls
+  232  mkdir modulos
+  233  cd Downloads/
+  234  cd Postman/
+  235  ./Postman 
+  236  . activate
+  237  ls
+  238  cd 520-diurno/
+  239  ls
+  240  cd venv/
+  241  . activate
+  242  cd bin/
+  243  . activate
+  244  cd /
+  245  ls
+  246  cd 
+  247  cd 520-diurno/
+  248  mkdir flask
+  249  ls
+  250  cd flask
+  251  chmod +x run.py 
+  252  ls
+  253  ./run.py 
+  254  ls
+  255  ls -la
+  256  python3 run.py 
+  257  sudo ifconfig
+  258  python3 run.py 
+  259  echo \#\!$(which python3) > testeApi.py; chmod +x testeApi.py
+  260  pip3 install resquests
+  261  pip3 install resquest
+  262  pip3 install resquests
+  263  cd ..
+  264  cd venv/bin/
+  265  pip3 install resquests
+  266  pip3 install requests
+  267  cd ..
+  268  cd flask/
+  269  ls
+  270  pip3 install requests
+  271  python3 run.py 
+  272  cd /tmp/
+  273  ls
+  274  cd mozilla_developer0/
+  275  ls
+  276  cd firefox-63.0.3/
+  277  ls
+  278  cd firefox/
+  279  ls
+  280  ./updater 
+  281  ./firefox
+  282  $ wget -O FirefoxSetup.tar.bz2 "https://download.mozilla.org/?product=firefox-latest&os=linux64&lang=en-US"
+  283  wget
+  284  wget -O FirefoxSetup.tar.bz2 "https://download.mozilla.org/?product=firefox-latest&os=linux64&lang=en-US"
+  285  ls
+  286  tar xjf FirefoxSetup.tar.bz2 -C /opt/firefox/
+  287  sudo tar xjf FirefoxSetup.tar.bz2 -C /opt/firefox/
+  288  cd /opt
+  289  ls
+  290  mkdir firefox
+  291  sudo mkdir firefox
+  292  sudo tar xjf FirefoxSetup.tar.bz2 -C /opt/firefox/
+  293  cd /tmp/
+  294  ls
+  295  cd firefox_developer/
+  296  ls
+  297  cd firefox_developer0
+  298  ls
+  299  cd 
+  300  cd 520
+  301  cd 520-diurno/
+  302  cd 
+  303  ls
+  304  cd Downloads/
+  305  tar -xzvf Postman-linux-x64-6.5.3.tar.gz 
+  306  cd Postman/
+  307  ls
+  308  ./Postman 
+  309  cd 
+  310  cd 520-diurno/
+  311  cd flask/
+  312  python3 run.py 
+  313  source /home/developer/520-diurno/venv/bin/activate
+  314  /home/developer/520-diurno/venv/bin/python -m pip install -U pylint
+  315  cd
+  316  cd 520-diurno/
+  317  cd flask/
+  318  ./testeApi.py 
+  319  python3 testeApi.py 
+  320  source /home/developer/520-diurno/venv/bin/activate
+  321  cd flask/
+  322  python3  testeApi.py 
+  323  cd modulos/
+  324  chmod +x usuarios.py 
+  325  ll
+  326  ls -la
+  327  cd  ..
+  328  mkdir templates
+  329  cd modulos/
+  330  chmod +x view.py 
+  331  source /home/developer/520-diurno/venv/bin/activate
+  332  cd /home/developer/520-diurno ; env "PYTHONIOENCODING=UTF-8" "PYTHONUNBUFFERED=1" /home/developer/520-diurno/venv/bin/python /home/developer/.vscode/extensions/ms-python.python-2018.10.1/pythonFiles/experimental/ptvsd_launcher.py --client --host localhost --port 46295 /home/developer/520-diurno/flask/run.py 
+  333  cd /home/developer/520-diurno ; env "PYTHONIOENCODING=UTF-8" "PYTHONUNBUFFERED=1" /home/developer/520-diurno/venv/bin/python /home/developer/.vscode/extensions/ms-python.python-2018.10.1/pythonFiles/experimental/ptvsd_launcher.py --client --host localhost --port 35741 /home/developer/520-diurno/flask/run.py 
+  334  python3 flask/run.py 
+  335  cd flask/
+  336  flask
+  337  flask help
+  338  export LC_ALL=C.UTF-8
+  339  export LANG=C.UTF-8
+  340  flask help
+  341  flask --help
+  342  flask run
+  343  flask run --help
+  344  flask run --debugger
+  345  flask run --debugger -p 5050
+  346  flask run
+  347  python3 run.py 
+  348  pip3 freeze
+  349  mv  aula03/ ../
+  350  cd ../aula03
+  351  chmod  +x conta.py 
+  352  ./conta.py 
+  353  chmod  +x conta.py 
+  354  ./conta.py 
+  355  ls
+  356  cd 520-diurno/
+  357  ls
+  358  git status
+  359  git add .
+  360  git status
+  361  git commit -m
+  362  git commit -m 'commit aula 3'
+  363  git push -u origin master
+  364  cd aula03
+  365  ls
+  366  ./app.py 
+  367  cd ..
+  368  git add .
+  369  git status
+  370  git commit -m 'classes'
+  371  git push -u origin master
+  372  /usr/bin/python3
+  373  cd aula03
+  374  ls
+  375  ./app.py 
+  376  ./conta.py 
+  377  ./app.py 
+  378  python3 app.py 
+  379  python3 conta.py 
+  380  chmod +x mult.py
+  381  ca
+  382  python3 mult.py 
+  383  cd aula03
+  384  ./conta.py 
+  385  chmod  +x app.py 
+  386  source /home/developer/520-diurno/venv/bin/activate
+  387  pip3 install faker
+  388  python3 flask/testeApi.py 
+  389  ls
+  390  history > comandos.txt 
