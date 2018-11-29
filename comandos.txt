@@ -388,3 +388,17 @@
   388  python3 flask/testeApi.py 
   389  ls
   390  history > comandos.txt 
+  391  pip3 install psyycopg2-binaryy
+  392  pip3 install psyycopg2-binary
+  393  pip3 install psycopg2-binary
+  394  python aula04/con_pg.py 
+  395  python3 aula04/con_pg.py 
+  396  python aula04/con_pg.py 
+  397  python33 aula04/con_pg.py 
+  398  python3 aula04/con_pg.py 
+  399  git status
+  400  git add .
+  401  git status
+  402  git commit -m 'commit aula 04'
+  403  git push -u origin master
+  404  history > comandos.txt 
